@@ -1,6 +1,7 @@
 body {
   padding: 50px;
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Simplifica';
+  letter-spacing: .25rem;
 }
 
 .name {
