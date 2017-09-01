@@ -1,18 +1,21 @@
 body {
   padding: 50px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   letter-spacing: .25rem;
 }
 
-.name {
+.name h1{
   text-align: center;
   font-size: 3.5em;
+  font-weight: 100;
 }
 
 nav {
   font-size: 14pt;
   text-align: center;
-  font-family: 'Cabin Condensed', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: .1rem;
 }
 
 nav li{

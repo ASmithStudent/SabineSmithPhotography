@@ -9,6 +9,7 @@
   "bugs": "https://github.com/ASmithStudent/sabinesite/issues",
   "dependencies": {
     "bulma": "^0.5.1",
+    "lightbox2": "^2.9.0",
     "reshape-standard": "^3.0.0",
     "spike": "^2.0.0",
     "spike-css-standards": "^3.0.0",
