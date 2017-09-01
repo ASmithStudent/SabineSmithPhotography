@@ -3,5 +3,5 @@
 @import '_base';
 @import '_helpers';
 @import '_print';
-@import '_global';
 @import '_masonry';
+@import '_global';
