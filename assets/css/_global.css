@@ -1,7 +1,6 @@
 body {
   padding: 5% 10%;
-  font-family: 'Josefin Sans', sans-serif;
-  letter-spacing: .25rem;
+  font-family: 'Poppins', sans-serif;
 }
 
 .name h1{
@@ -13,9 +12,6 @@ body {
 nav {
   font-size: 14pt;
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 400;
-  letter-spacing: .1rem;
 }
 
 nav li{

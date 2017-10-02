@@ -42,6 +42,9 @@ a {
   -webkit-transition: all .25s ease-in-out;
   transition: all .25s ease-in-out;
 }
+.masonry .brick:hover img {
+  opacity: 0.75;
+}
 .masonry.bordered {
   -moz-column-rule: 1px solid #eee;
   -webkit-column-rule: 1px solid #eee;
